@@ -1,0 +1,16 @@
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\bin\Debug\Mo_Shop.exe.config
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\bin\Debug\Mo_Shop.exe
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\bin\Debug\Mo_Shop.pdb
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\bin\Debug\EntityFramework.dll
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\bin\Debug\EntityFramework.SqlServer.dll
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\bin\Debug\EntityFramework.xml
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\bin\Debug\EntityFramework.SqlServer.xml
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\obj\Debug\Mo_Shop.csproj.AssemblyReference.cache
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\obj\Debug\Mo_Shop.csproj.SuggestedBindingRedirects.cache
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\obj\Debug\Mo_Shop.Form1.resources
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\obj\Debug\Mo_Shop.Properties.Resources.resources
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\obj\Debug\Mo_Shop.csproj.GenerateResource.cache
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\obj\Debug\Mo_Shop.csproj.CoreCompileInputs.cache
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\obj\Debug\Mo_Shop.csproj.CopyComplete
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\obj\Debug\Mo_Shop.exe
+J:\My Passport\Projects\Windows\Mo_Shop\Mo_Shop\obj\Debug\Mo_Shop.pdb
